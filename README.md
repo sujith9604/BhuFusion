@@ -1,6 +1,6 @@
-# GrossFresh - Online Agricultural Marketplace
+# BhuFusion - Online Agricultural Marketplace
 
-GrossFresh is an online agricultural marketplace where farmers, customers, agricultural research and development (ARD), and agricultural machinery dealers (AMD) can interact and conduct various agricultural-related activities.
+BhuFusion is an online agricultural marketplace where farmers, customers, agricultural research and development (ARD), and agricultural machinery dealers (AMD) can interact and conduct various agricultural-related activities.
 
 ## Project Structure
 
@@ -73,13 +73,13 @@ GrossFresh is an online agricultural marketplace where farmers, customers, agric
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/grossfresh.git
+    git clone https://github.com/your-username/BhuFusion.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd grossfresh
+    cd BhuFusion
     ```
 
 3. Install dependencies:
@@ -96,7 +96,7 @@ GrossFresh is an online agricultural marketplace where farmers, customers, agric
     npm start
     ```
 
-2. Open a web browser and go to `http://localhost:3000` to access the GrossFresh application.
+2. Open a web browser and go to `http://localhost:3000` to access the BhuFusion application.
 
 ## Dependencies
 
